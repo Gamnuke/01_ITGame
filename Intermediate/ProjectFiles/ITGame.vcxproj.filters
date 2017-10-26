@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ITGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{C7F21508-5541-4B30-AD48-106A94489DD2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ITGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ITGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{09429325-89B8-4B54-A857-806350A6FF33}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ITGame">
+			<UniqueIdentifier>{F93C916F-19B5-450E-A5F1-D1903CE81B83}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ITGame\ITGame.Build.cs">
+			<Filter>Source\ITGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ITGame\ITGame.cpp">
+			<Filter>Source\ITGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ITGame\ITGame.h">
+			<Filter>Source\ITGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ITGame\ITGameGameModeBase.cpp">
+			<Filter>Source\ITGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ITGame\ITGameGameModeBase.h">
+			<Filter>Source\ITGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

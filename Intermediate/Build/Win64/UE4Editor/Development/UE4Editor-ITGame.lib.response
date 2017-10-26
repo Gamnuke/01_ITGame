@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ITGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\ITGame.cpp.obj"
+"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\ITGameGameModeBase.cpp.obj"
+"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\ITGame.init.gen.cpp.obj"
+"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\ITGameGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ITGame\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ITGame.lib"
