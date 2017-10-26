@@ -24,9 +24,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source"
-/I "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Source"
-/I "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Inc\ITGame"
-/I "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Source\ITGame"
+/I "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Source"
+/I "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Inc\ITGame"
+/I "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Source\ITGame"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Async"
@@ -356,9 +356,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Source\ITGame\ITGame.cpp"
-/FI"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\Definitions.ITGame.h"
-/Fo"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\ITGame.cpp.obj"
+"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Source\ITGame\ITGame.cpp"
+/FI"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\Definitions.ITGame.h"
+/Fo"C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\ITGame\ITGame.cpp.obj"
 /TP
 /GR-
 /W4

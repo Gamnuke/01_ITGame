@@ -273,3 +273,114 @@ LogInit: Object subsystem initialized
 [2017.10.26-10.32.05:550][  4]LogAssetRegistry: Asset discovery search completed in 28.6785 seconds
 [2017.10.26-10.32.05:553][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2017.10.26-10.32.05:553][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000255 seconds (updated 0 objects)
+[2017.10.26-10.33.59:346][345]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.26-10.33.59:396][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.33.59:397][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.26-10.33.59:399][345]PIE: New page: PIE session: FirstLevel (27 Oct 2017 8:33:59 am)
+[2017.10.26-10.33.59:400][345]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2017.10.26-10.33.59:404][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004400s)
+[2017.10.26-10.33.59:406][345]LogAIModule: Creating AISystem for world FirstLevel
+[2017.10.26-10.33.59:406][345]LogPlayLevel: PIE: World Init took: (0.001645s)
+[2017.10.26-10.33.59:407][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.006939s)
+[2017.10.26-10.33.59:429][345]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.26-10.33.59:442][345]LogInit: FAudioDevice initialized.
+[2017.10.26-10.33.59:490][345]LogLoad: Game class is 'GameMode_BP_C'
+[2017.10.26-10.33.59:497][345]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2017.10.26-21.33.59
+[2017.10.26-10.33.59:498][345]LogWorld: Bringing up level for play took: 0.002401
+[2017.10.26-10.33.59:554][345]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0016 seconds. Added 11 classes and 0 folders.
+[2017.10.26-10.33.59:564][345]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel 0.371
+[2017.10.26-10.33.59:564][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.34.05:428][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.34.05:480][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.34.14:833][836]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2017.10.26-10.34.14:865][836]Candidate modules for hot reload:
+[2017.10.26-10.34.14:865][836]  ITGame
+[2017.10.26-10.34.14:865][836]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/DotNET/UnrealBuildTool.exe ITGame -ModuleWithSuffix ITGame 203 Win64 Development -editorrecompile -canskiplink "C:/Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/ITGame.uproject" ]
+[2017.10.26-10.34.14:867][836]Warning: Starting HotReload took  0.0s.
+[2017.10.26-10.36.08:256][897]CompilerResultsLog: New page: Compilation - 27 Oct 2017 8:36:08 am
+[2017.10.26-10.36.08:256][897]CompilerResultsLog: Performing full C++ include scan (hot reloading a new target)
+[2017.10.26-10.36.08:257][897]CompilerResultsLog: Compiling game modules for hot reload
+[2017.10.26-10.36.08:257][897]CompilerResultsLog: Parsing headers for ITGameEditor
+[2017.10.26-10.36.08:257][897]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\ITGame.uproject" "C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\ITGameEditor\Development\ITGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.10.26-10.36.08:258][897]CompilerResultsLog: Reflection code generated for ITGameEditor in 22.7072358 seconds
+[2017.10.26-10.36.08:258][897]CompilerResultsLog: Performing 6 actions (2 in parallel)
+[2017.10.26-10.36.08:259][897]CompilerResultsLog: ITGameGameModeBase.cpp
+[2017.10.26-10.36.08:259][897]CompilerResultsLog: ITGame.cpp
+[2017.10.26-10.36.08:259][897]CompilerResultsLog: ITGame.init.gen.cpp
+[2017.10.26-10.36.08:259][897]CompilerResultsLog: ITGameGameModeBase.gen.cpp
+[2017.10.26-10.36.08:260][897]CompilerResultsLog: [5/6] Link UE4Editor-ITGame-203.dll
+[2017.10.26-10.36.08:260][897]CompilerResultsLog: [6/6] Link UE4Editor-ITGame-203.lib
+[2017.10.26-10.36.08:260][897]CompilerResultsLog:    Creating library C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ITGame-203.lib and object C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ITGame-203.exp
+[2017.10.26-10.36.08:261][897]CompilerResultsLog:    Creating library C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ITGame-203.suppressed.lib and object C:\Users\Shanuka Gammana\Documents\repos\05_ITGame\ITGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ITGame-203.suppressed.exp
+[2017.10.26-10.36.08:262][897]CompilerResultsLog: Total build time: 112.91 seconds (Local executor: 9.92 seconds)
+[2017.10.26-10.36.08:263][897]LogMainFrame: MainFrame: Module compiling took 113.430 seconds
+[2017.10.26-10.36.08:389][897]LogContentBrowser: Native class hierarchy updated for 'ITGame' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2017.10.26-10.36.08:390][897]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.10.26-10.36.08:451][897]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2389 classes and 506 folders.
+[2017.10.26-10.36.08:452][897]Display: HotReload took 113.6s.
+[2017.10.26-10.36.31:997][499]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.26-10.36.32:030][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.32:031][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.26-10.36.32:032][499]PIE: New page: PIE session: FirstLevel (27 Oct 2017 8:36:32 am)
+[2017.10.26-10.36.32:033][499]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2017.10.26-10.36.32:038][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004796s)
+[2017.10.26-10.36.32:040][499]LogAIModule: Creating AISystem for world FirstLevel
+[2017.10.26-10.36.32:040][499]LogPlayLevel: PIE: World Init took: (0.002026s)
+[2017.10.26-10.36.32:041][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.008323s)
+[2017.10.26-10.36.32:071][499]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.26-10.36.32:085][499]LogInit: FAudioDevice initialized.
+[2017.10.26-10.36.32:121][499]LogLoad: Game class is 'GameMode_BP_C'
+[2017.10.26-10.36.32:123][499]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2017.10.26-21.36.32
+[2017.10.26-10.36.32:123][499]LogWorld: Bringing up level for play took: 0.001729
+[2017.10.26-10.36.32:125][499]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel 0.932
+[2017.10.26-10.36.32:126][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.34:054][579]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.34:106][579]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.38:021][668]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.26-10.36.38:111][668]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0016 seconds. Added 1 classes and 0 folders.
+[2017.10.26-10.36.38:117][668]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.38:290][668]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.38:312][668]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.38:357][668]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.10.26-10.36.38:382][668]LogSlate: Took 0.012878 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.26-10.36.38:760][669]LogSlate: Took 0.022529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.26-10.36.43:516][899]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.43:554][899]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.10.26-10.36.44:885][963]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.44:924][963]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.10.26-10.36.46:828][ 61]LogMaterialEditor: Saving and Compiling material Player_M
+[2017.10.26-10.36.48:037][ 61]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.48:122][ 61]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.48:184][ 61]LogMaterial: Missing cached shader map for material Player_M, compiling. 
+[2017.10.26-10.36.48:255][ 61]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Player_M, compiling. 
+[2017.10.26-10.36.51:142][ 61]TextureStreamingBuild: Display: Compiling optional shaders took 2.900 seconds.
+[2017.10.26-10.36.53:695][ 61]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.26-10.36.53:724][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Player_M" FILE="../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Content/Materials/Player_M.uasset" SILENT=true
+[2017.10.26-10.36.53:760][ 61]LogSavePackage: Save=22.67ms
+[2017.10.26-10.36.53:760][ 61]LogSavePackage: Moving '../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Saved/Player_M75D900B9458782F659DBDFBA6C88642E.tmp' to '../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Content/Materials/Player_M.uasset'
+[2017.10.26-10.36.53:769][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Content/Materials/Player_M.uasset
+[2017.10.26-10.36.53:783][ 61]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.10.26-10.36.53:784][ 61]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.26-10.36.53:784][ 61]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.26-10.36.58:072][195]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.26-10.36.58:102][195]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.58:103][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.26-10.36.58:103][195]PIE: New page: PIE session: FirstLevel (27 Oct 2017 8:36:58 am)
+[2017.10.26-10.36.58:104][195]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2017.10.26-10.36.58:109][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004797s)
+[2017.10.26-10.36.58:111][195]LogAIModule: Creating AISystem for world FirstLevel
+[2017.10.26-10.36.58:112][195]LogPlayLevel: PIE: World Init took: (0.002547s)
+[2017.10.26-10.36.58:113][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.008889s)
+[2017.10.26-10.36.58:144][195]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.26-10.36.58:159][195]LogInit: FAudioDevice initialized.
+[2017.10.26-10.36.58:193][195]LogLoad: Game class is 'GameMode_BP_C'
+[2017.10.26-10.36.58:195][195]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 60) at 2017.10.26-21.36.58
+[2017.10.26-10.36.58:195][195]LogWorld: Bringing up level for play took: 0.001427
+[2017.10.26-10.36.58:197][195]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel 1.004
+[2017.10.26-10.36.58:197][195]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.59:604][253]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.36.59:657][253]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.10.26-10.37.00:398][273]LogEditorViewport: Clicking Background
+[2017.10.26-10.37.01:200][288]LogSavePackage: Save=62.38ms
+[2017.10.26-10.37.01:200][288]LogSavePackage: Moving '../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Saved/FirstLevelAB94DAD14E6F2AB38D46FFA1442333C7.tmp' to '../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Content/Levels/FirstLevel.umap'
+[2017.10.26-10.37.01:203][288]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Shanuka Gammana/Documents/repos/05_ITGame/ITGame/Content/Levels/FirstLevel.umap
