@@ -4428,3 +4428,72 @@ LogInit: Object subsystem initialized
 [2017.11.04-20.48.17:636][360]LogSavePackage: Save=13.52ms
 [2017.11.04-20.48.17:636][360]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/FirstLevel_BuiltData2F06C85646E0B2D3FAF53ABAB3AA6EA7.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/FirstLevel_BuiltData.uasset'
 [2017.11.04-20.48.17:636][360]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/FirstLevel_BuiltData.uasset
+[2017.11.04-20.52.30:037][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Background)
+[2017.11.04-20.52.30:987][283]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-20.52.31:026][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.52.31:027][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-20.52.31:028][283]PIE: New page: PIE session: FirstLevel (Nov 4, 2017, 6:52:31 AM)
+[2017.11.04-20.52.31:028][283]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2017.11.04-20.52.31:037][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007912s)
+[2017.11.04-20.52.31:039][283]LogAIModule: Creating AISystem for world FirstLevel
+[2017.11.04-20.52.31:040][283]LogPlayLevel: PIE: World Init took: (0.003194s)
+[2017.11.04-20.52.31:041][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.012530s)
+[2017.11.04-20.52.31:074][283]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-20.52.31:097][283]LogInit: FAudioDevice initialized.
+[2017.11.04-20.52.31:132][283]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.04-20.52.31:135][283]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2017.11.04-13.52.31
+[2017.11.04-20.52.31:136][283]LogWorld: Bringing up level for play took: 0.002753
+[2017.11.04-20.52.31:137][283]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel -0.785
+[2017.11.04-20.52.31:138][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.53.22:704][679]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.53.22:773][679]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.53.42:706][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicsMaterials/Player_PM" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset" SILENT=true
+[2017.11.04-20.53.42:723][992]LogSavePackage: Save=3.90ms
+[2017.11.04-20.53.42:723][992]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Player_PM4DF7401846EAD3BF127B6EAB74591893.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset'
+[2017.11.04-20.53.42:724][992]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset
+[2017.11.04-20.53.43:542][  9]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-20.53.43:578][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.53.43:579][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-20.53.43:580][  9]PIE: New page: PIE session: FirstLevel (Nov 4, 2017, 6:53:43 AM)
+[2017.11.04-20.53.43:581][  9]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2017.11.04-20.53.43:591][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010300s)
+[2017.11.04-20.53.43:592][  9]LogAIModule: Creating AISystem for world FirstLevel
+[2017.11.04-20.53.43:593][  9]LogPlayLevel: PIE: World Init took: (0.001223s)
+[2017.11.04-20.53.43:593][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.012682s)
+[2017.11.04-20.53.43:628][  9]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-20.53.43:652][  9]LogInit: FAudioDevice initialized.
+[2017.11.04-20.53.43:685][  9]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.04-20.53.43:688][  9]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2017.11.04-13.53.43
+[2017.11.04-20.53.43:689][  9]LogWorld: Bringing up level for play took: 0.002898
+[2017.11.04-20.53.43:691][  9]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel -0.231
+[2017.11.04-20.53.43:691][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.54.37:463][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.54.37:534][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.54.47:706][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Background)
+[2017.11.04-20.54.48:408][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicsMaterials/Player_PM" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset" SILENT=true
+[2017.11.04-20.54.48:424][ 29]LogSavePackage: Save=4.80ms
+[2017.11.04-20.54.48:424][ 29]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Player_PMA3E8D00D44CBFADF96FE069A22EDB389.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset'
+[2017.11.04-20.54.48:425][ 29]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset
+[2017.11.04-20.54.49:163][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.04-20.54.49:193][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.54.49:193][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.04-20.54.49:194][ 45]PIE: New page: PIE session: FirstLevel (Nov 4, 2017, 6:54:49 AM)
+[2017.11.04-20.54.49:194][ 45]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_FirstLevel
+[2017.11.04-20.54.49:205][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010544s)
+[2017.11.04-20.54.49:206][ 45]LogAIModule: Creating AISystem for world FirstLevel
+[2017.11.04-20.54.49:207][ 45]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2017.11.04-20.54.49:207][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/FirstLevel.FirstLevel to /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel (0.012813s)
+[2017.11.04-20.54.49:240][ 45]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-20.54.49:258][ 45]LogInit: FAudioDevice initialized.
+[2017.11.04-20.54.49:293][ 45]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.04-20.54.49:296][ 45]LogWorld: Bringing World /Game/Levels/UEDPIE_0_FirstLevel.FirstLevel up for play (max tick rate 0) at 2017.11.04-13.54.49
+[2017.11.04-20.54.49:297][ 45]LogWorld: Bringing up level for play took: 0.002875
+[2017.11.04-20.54.49:299][ 45]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_FirstLevel -0.623
+[2017.11.04-20.54.49:299][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.55.05:920][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.55.05:990][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel' with GeneratedClass '/Game/Levels/FirstLevel.FirstLevel_C' with ClassGeneratedBy '/Game/Levels/FirstLevel.FirstLevel:PersistentLevel.FirstLevel'
+[2017.11.04-20.55.31:176][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Background)
+[2017.11.04-20.55.32:020][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PhysicsMaterials/Player_PM" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset" SILENT=true
+[2017.11.04-20.55.32:037][770]LogSavePackage: Save=5.10ms
+[2017.11.04-20.55.32:037][770]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Player_PM1FDECB6441063F77DFE9C699117A5EBE.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset'
+[2017.11.04-20.55.32:038][770]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/PhysicsMaterials/Player_PM.uasset
