@@ -3036,3 +3036,469 @@ LogInit: Object subsystem initialized
 [2017.11.08-03.52.17:721][611]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/MainMenu2C3EB4B340E6DC73A43298940408C4B4.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/MainMenu.umap'
 [2017.11.08-03.52.17:722][611]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/MainMenu.umap
 [2017.11.08-23.05.59:066][354]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2017.11.09-01.15.58:535][313]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-01.15.58:653][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.15.58:653][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-01.15.58:654][313]PIE: New page: PIE session: MainMenu (Nov 8, 2017, 9:15:58 AM)
+[2017.11.09-01.15.58:655][313]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2017.11.09-01.15.58:679][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023712s)
+[2017.11.09-01.15.58:684][313]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.09-01.15.58:685][313]LogPlayLevel: PIE: World Init took: (0.005089s)
+[2017.11.09-01.15.58:685][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.030669s)
+[2017.11.09-01.15.58:742][313]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-01.15.58:756][313]LogInit: FAudioDevice initialized.
+[2017.11.09-01.15.58:810][313]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.15.58:816][313]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.08-17.15.58
+[2017.11.09-01.15.58:816][313]LogWorld: Bringing up level for play took: 0.004956
+[2017.11.09-01.15.58:822][313]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu 0.503
+[2017.11.09-01.15.58:823][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.16.00:812][401]LogNet: Browse: /Game/Levels/Level1
+[2017.11.09-01.16.00:830][401]LogLoad: LoadMap: /Game/Levels/Level1
+[2017.11.09-01.16.00:863][401]Cmd: MEM
+[2017.11.09-01.16.00:884][401]LogMemory: Platform Memory Stats for Windows
+[2017.11.09-01.16.00:884][401]LogMemory: Process Physical Memory: 783.20 MB used, 3886.90 MB peak
+[2017.11.09-01.16.00:884][401]LogMemory: Process Virtual Memory: 6175.49 MB used, 6332.46 MB peak
+[2017.11.09-01.16.00:885][401]LogMemory: Physical Memory: 5323.64 MB used,  2774.27 MB free, 8097.91 MB total
+[2017.11.09-01.16.00:885][401]LogMemory: Virtual Memory: 7436.43 MB used,  2774.27 MB free, 134217728.00 MB total
+[2017.11.09-01.16.00:885][401]LogMemory: 
+[2017.11.09-01.16.00:885][401]Allocator Stats for TBB: (not implemented)
+[2017.11.09-01.16.02:200][401]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.16.02:201][401]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.16.02:285][401]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-17.16.02
+[2017.11.09-01.16.02:288][401]LogWorld: Bringing up level for play took: 0.086316
+[2017.11.09-01.16.02:288][401]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.09-01.16.02:291][401]LogLoad: Took 1.460570 seconds to LoadMap(/Game/Levels/Level1)
+[2017.11.09-01.16.51:914][708]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.16.51:972][708]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.17.07:207][521]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.09-01.17.07:207][521]LightingResults: New page: Lighting Build
+[2017.11.09-01.17.07:208][521]LoadErrors: New page: Loading map: MainMenu.umap
+[2017.11.09-01.17.07:209][521]MapCheck: New page: Map Check
+[2017.11.09-01.17.07:209][521]LightingResults: New page: Lighting Build
+[2017.11.09-01.17.07:490][521]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.09-01.17.07:507][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.09-01.17.07:560][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.09-01.17.11:481][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,920.545ms to complete.
+[2017.11.09-01.17.11:482][521]LogFileHelpers: Loading map 'MainMenu' took 4.276
+[2017.11.09-01.17.35:485][264]LogEditorViewport: Clicking on Actor (LMB): Crusher_BP_C (Crusher_BP5)
+[2017.11.09-01.33.05:454][756]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-01.33.05:485][756]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.33.05:486][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-01.33.05:486][756]PIE: New page: PIE session: MainMenu (Nov 8, 2017, 9:33:05 AM)
+[2017.11.09-01.33.05:486][756]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2017.11.09-01.33.05:494][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007928s)
+[2017.11.09-01.33.05:496][756]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.09-01.33.05:496][756]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2017.11.09-01.33.05:497][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.010212s)
+[2017.11.09-01.33.05:528][756]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-01.33.05:546][756]LogInit: FAudioDevice initialized.
+[2017.11.09-01.33.05:582][756]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.33.05:586][756]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.08-17.33.05
+[2017.11.09-01.33.05:586][756]LogWorld: Bringing up level for play took: 0.002677
+[2017.11.09-01.33.05:588][756]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.732
+[2017.11.09-01.33.05:588][756]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.33.09:062][912]LogNet: Browse: /Game/Levels/Level1
+[2017.11.09-01.33.09:080][912]LogLoad: LoadMap: /Game/Levels/Level1
+[2017.11.09-01.33.09:115][912]Cmd: MEM
+[2017.11.09-01.33.09:138][912]LogMemory: Platform Memory Stats for Windows
+[2017.11.09-01.33.09:138][912]LogMemory: Process Physical Memory: 1075.27 MB used, 3886.90 MB peak
+[2017.11.09-01.33.09:138][912]LogMemory: Process Virtual Memory: 6156.71 MB used, 6332.46 MB peak
+[2017.11.09-01.33.09:138][912]LogMemory: Physical Memory: 5333.56 MB used,  2764.35 MB free, 8097.91 MB total
+[2017.11.09-01.33.09:138][912]LogMemory: Virtual Memory: 7417.46 MB used,  2764.35 MB free, 134217728.00 MB total
+[2017.11.09-01.33.09:139][912]LogMemory: 
+[2017.11.09-01.33.09:139][912]Allocator Stats for TBB: (not implemented)
+[2017.11.09-01.33.09:232][912]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.33.09:232][912]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.33.09:311][912]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-17.33.09
+[2017.11.09-01.33.09:313][912]LogWorld: Bringing up level for play took: 0.080025
+[2017.11.09-01.33.09:313][912]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.09-01.33.09:315][912]LogLoad: Took 0.235106 seconds to LoadMap(/Game/Levels/Level1)
+[2017.11.09-01.33.37:316][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.33.37:381][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.09-01.39.00:722][599]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.39.00:825][599]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.09-01.39.00:825][599]LightingResults: New page: Lighting Build
+[2017.11.09-01.39.00:826][599]LoadErrors: New page: Loading map: Level1.umap
+[2017.11.09-01.39.00:827][599]MapCheck: New page: Map Check
+[2017.11.09-01.39.00:827][599]LightingResults: New page: Lighting Build
+[2017.11.09-01.39.00:963][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.09-01.39.01:017][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.09-01.39.01:063][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.783ms to complete.
+[2017.11.09-01.39.01:063][599]LogFileHelpers: Loading map 'Level1' took 0.239
+[2017.11.09-01.39.01:621][613]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-01.39.01:652][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.39.01:653][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-01.39.01:653][613]PIE: New page: PIE session: Level1 (Nov 8, 2017, 9:39:01 AM)
+[2017.11.09-01.39.01:653][613]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2017.11.09-01.39.01:681][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027228s)
+[2017.11.09-01.39.01:682][613]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.39.01:682][613]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2017.11.09-01.39.01:683][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.029401s)
+[2017.11.09-01.39.01:711][613]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-01.39.01:725][613]LogInit: FAudioDevice initialized.
+[2017.11.09-01.39.01:769][613]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.39.01:779][613]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-17.39.01
+[2017.11.09-01.39.01:781][613]LogWorld: Bringing up level for play took: 0.010785
+[2017.11.09-01.39.01:784][613]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0.536
+[2017.11.09-01.39.01:784][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.39.17:302][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.39.17:357][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.40.38:156][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GameMode_BP" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/GameMode_BP.uasset" SILENT=true
+[2017.11.09-01.40.38:412][695]LogSavePackage: Save=27.55ms
+[2017.11.09-01.40.38:412][695]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/GameMode_BP93C8FB4C44ADC3CA8D510E98F8749164.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/GameMode_BP.uasset'
+[2017.11.09-01.40.38:413][695]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/GameMode_BP.uasset
+[2017.11.09-01.43.24:060][ 82]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.25:491][105]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.25:603][105]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.25:628][105]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.25:665][105]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.43.33:038][492]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.33:065][492]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.43.33:773][527]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.33:797][527]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.43.34:372][555]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.34:393][555]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.43.35:556][613]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.35:576][613]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.43.38:314][757]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.38:334][757]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.43.42:012][947]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.45:884][154]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.43.45:885][154]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.43.45:885][154]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.43.55:492][720]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.43.58:513][885]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.43.58:513][885]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.43.58:513][885]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.44.08:770][495]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.11:886][669]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.44.11:887][669]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.44.11:887][669]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.44.13:252][750]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.13:292][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.44.13:297][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.09-01.44.16:414][923]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.44.16:414][923]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.44.16:414][923]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.44.18:931][ 62]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.18:954][ 62]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.09-01.44.19:837][108]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.19:861][108]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.09-01.44.23:073][285]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.23:095][285]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.09-01.44.24:516][364]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.24:535][364]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.44.25:896][437]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.31:979][765]MaterialEditorStats: Base pass shader: 82 instructions
+[2017.11.09-01.44.31:979][765]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.44.31:979][765]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.44.46:067][605]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.50:037][823]MaterialEditorStats: Base pass shader: 82 instructions
+[2017.11.09-01.44.50:038][823]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.44.50:038][823]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.44.53:324][ 20]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.44.56:408][195]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.44.56:408][195]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.44.56:408][195]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.45.00:795][458]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.04:979][692]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.45.04:979][692]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.04:980][692]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.45.10:196][998]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.10:210][998]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.13:542][185]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.45.13:542][185]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.13:542][185]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.45.19:827][576]LogMaterialEditor: Saving and Compiling material Plasma_M
+[2017.11.09-01.45.21:222][576]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.21:261][576]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.21:286][576]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.21:334][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plasma_M, compiling. 
+[2017.11.09-01.45.22:064][576]TextureStreamingBuild: Display: Compiling optional shaders took 0.735 seconds.
+[2017.11.09-01.45.23:399][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Plasma_M" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset" SILENT=true
+[2017.11.09-01.45.23:415][576]LogSavePackage: Save=14.68ms
+[2017.11.09-01.45.23:416][576]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Plasma_MDB83FB2947F8B681D940D796B153055B.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset'
+[2017.11.09-01.45.23:419][576]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset
+[2017.11.09-01.45.23:427][576]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.45.23:427][576]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.23:427][576]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.09-01.45.32:191][110]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.34:792][259]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.45.34:792][259]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.34:792][259]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.45.36:746][377]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.39:457][533]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.45.39:458][533]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.39:458][533]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.45.40:682][607]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.42:015][683]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.45:109][861]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.45.45:110][861]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.45:110][861]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.45.49:136][109]LogMaterialEditor: Saving and Compiling material Plasma_M
+[2017.11.09-01.45.49:583][109]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.49:615][109]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.49:637][109]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.45.49:680][109]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plasma_M, compiling. 
+[2017.11.09-01.45.50:412][109]TextureStreamingBuild: Display: Compiling optional shaders took 0.737 seconds.
+[2017.11.09-01.45.51:756][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Plasma_M" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset" SILENT=true
+[2017.11.09-01.45.51:809][109]LogSavePackage: Save=14.28ms
+[2017.11.09-01.45.51:809][109]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Plasma_ME5360E104C8968A40BC50190E86C8930.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset'
+[2017.11.09-01.45.51:811][109]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset
+[2017.11.09-01.45.51:817][109]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.45.51:817][109]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.45.51:817][109]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.09-01.46.06:028][987]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.46.08:610][133]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.46.08:610][133]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.46.08:610][133]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.47.39:763][620]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.47.41:494][719]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.47.45:333][939]MaterialEditorStats: Base pass shader: 83 instructions
+[2017.11.09-01.47.45:333][939]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.47.45:333][939]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.47.51:042][280]LogMaterialEditor: Saving and Compiling material Plasma_M
+[2017.11.09-01.47.51:486][280]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.47.51:517][280]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.47.51:542][280]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.47.51:586][280]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plasma_M, compiling. 
+[2017.11.09-01.47.52:319][280]TextureStreamingBuild: Display: Compiling optional shaders took 0.738 seconds.
+[2017.11.09-01.47.53:680][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Plasma_M" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset" SILENT=true
+[2017.11.09-01.47.53:712][280]LogSavePackage: Save=15.04ms
+[2017.11.09-01.47.53:712][280]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Plasma_M6929B186494A1404AFC45984BE6AFF17.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset'
+[2017.11.09-01.47.53:713][280]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset
+[2017.11.09-01.47.53:720][280]MaterialEditorStats: Base pass shader: 83 instructions
+[2017.11.09-01.47.53:720][280]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.47.53:720][280]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.09-01.48.01:342][578]LogEditorViewport: Clicking on Actor (LMB): Block_BP_C (Block_BP5)
+[2017.11.09-01.48.09:516][773]LogMaterial: Missing cached shader map for material Ground_M, compiling. 
+[2017.11.09-01.48.09:635][773]LogMaterial: Missing cached shader map for material Ground_M, compiling. 
+[2017.11.09-01.48.09:648][773]LogMaterial: Missing cached shader map for material Ground_M, compiling. 
+[2017.11.09-01.48.09:687][773]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.09-01.48.13:560][981]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.48.13:560][981]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.48.13:561][981]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.09-01.48.26:522][636]BlueprintLog: New page: Compile Block_BP
+[2017.11.09-01.48.35:702][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Blocks/Block_BP" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/Blocks/Block_BP.uasset" SILENT=true
+[2017.11.09-01.48.35:743][636]LogSavePackage: Save=19.56ms
+[2017.11.09-01.48.35:743][636]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Block_BPFDEA89B44A09A5B11D87348F3E18E3D0.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/Blocks/Block_BP.uasset'
+[2017.11.09-01.48.35:745][636]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/Blocks/Block_BP.uasset
+[2017.11.09-01.48.38:793][792]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-01.48.38:837][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.48.38:837][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-01.48.38:838][792]PIE: New page: PIE session: Level1 (Nov 8, 2017, 9:48:38 AM)
+[2017.11.09-01.48.38:838][792]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2017.11.09-01.48.38:863][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025247s)
+[2017.11.09-01.48.38:864][792]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.48.38:865][792]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2017.11.09-01.48.38:866][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.028235s)
+[2017.11.09-01.48.38:894][792]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-01.48.38:912][792]LogInit: FAudioDevice initialized.
+[2017.11.09-01.48.38:947][792]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.48.38:955][792]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-17.48.38
+[2017.11.09-01.48.38:957][792]LogWorld: Bringing up level for play took: 0.009611
+[2017.11.09-01.48.38:960][792]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0.64
+[2017.11.09-01.48.38:960][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.48.44:254][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.48.44:326][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.48.48:677][141]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-01.48.48:711][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.48.48:712][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-01.48.48:712][141]PIE: New page: PIE session: Level1 (Nov 8, 2017, 9:48:48 AM)
+[2017.11.09-01.48.48:712][141]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2017.11.09-01.48.48:736][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024108s)
+[2017.11.09-01.48.48:737][141]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.48.48:738][141]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2017.11.09-01.48.48:738][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.026205s)
+[2017.11.09-01.48.48:769][141]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-01.48.48:782][141]LogInit: FAudioDevice initialized.
+[2017.11.09-01.48.48:813][141]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.48.48:822][141]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-17.48.48
+[2017.11.09-01.48.48:823][141]LogWorld: Bringing up level for play took: 0.009267
+[2017.11.09-01.48.48:826][141]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0.507
+[2017.11.09-01.48.48:827][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.49.08:447][ 40]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.49.08:511][ 40]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.49.18:546][633]BlueprintLog: New page: Compile Block_BP
+[2017.11.09-01.49.27:674][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Blocks/Block_BP" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/Blocks/Block_BP.uasset" SILENT=true
+[2017.11.09-01.49.27:714][633]LogSavePackage: Save=20.46ms
+[2017.11.09-01.49.27:714][633]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Block_BPF78CE60947E1CADDA28462BD7D7E8585.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/Blocks/Block_BP.uasset'
+[2017.11.09-01.49.27:716][633]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Blueprints/Blocks/Block_BP.uasset
+[2017.11.09-01.49.37:955][279]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.49.41:752][494]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.49.41:753][494]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.49.41:753][494]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.50.02:126][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal Engine Projects/05_ITGame/Saved/Autosaves/Game/Levels/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.11.09-01.50.02:626][720]LogSavePackage: Save=478.24ms
+[2017.11.09-01.50.02:627][720]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Level1_Auto13DA6DC53448FB74AE14941AEB99D5BEF.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2017.11.09-01.50.02:628][720]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Saved/Autosaves/Game/Levels/Level1_Auto1.umap
+[2017.11.09-01.50.02:632][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Level1' took 0.545
+[2017.11.09-01.50.02:632][720]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.545
+[2017.11.09-01.51.43:907][762]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.51.47:832][978]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.51.47:833][978]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.51.47:833][978]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.51.52:770][267]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.51.56:816][492]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.51.56:817][492]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.51.56:817][492]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.51.59:125][628]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.02:772][830]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.52.02:772][830]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.02:773][830]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.52.16:398][643]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.20:499][871]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.52.20:499][871]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.20:500][871]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.52.20:581][874]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.24:582][ 96]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.09-01.52.24:582][ 96]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.24:582][ 96]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.52.25:487][152]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.25:506][152]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.09-01.52.26:413][201]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.30:348][422]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.52.30:349][422]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.30:349][422]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.52.33:727][628]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.36:845][802]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.09-01.52.36:846][802]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.36:846][802]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.52.38:413][897]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.41:497][ 70]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.45:489][293]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.52.45:489][293]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.45:490][293]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.09-01.52.50:221][587]LogMaterialEditor: Saving and Compiling material Plasma_M
+[2017.11.09-01.52.50:671][587]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.50:703][587]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.50:727][587]LogMaterial: Missing cached shader map for material Plasma_M, compiling. 
+[2017.11.09-01.52.50:772][587]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plasma_M, compiling. 
+[2017.11.09-01.52.51:484][587]TextureStreamingBuild: Display: Compiling optional shaders took 0.717 seconds.
+[2017.11.09-01.52.52:835][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Plasma_M" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset" SILENT=true
+[2017.11.09-01.52.52:884][587]LogSavePackage: Save=28.44ms
+[2017.11.09-01.52.52:884][587]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Plasma_M6E7C2EF947E10F9E03D3CAA87FA31EAE.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset'
+[2017.11.09-01.52.52:886][587]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Materials/Plasma_M.uasset
+[2017.11.09-01.52.52:895][587]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.11.09-01.52.52:895][587]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.09-01.52.52:895][587]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.09-01.57.58:628][  0]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-01.57.58:672][  0]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-01.57.58:673][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-01.57.58:673][  0]PIE: New page: PIE session: Level1 (Nov 8, 2017, 9:57:58 AM)
+[2017.11.09-01.57.58:673][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2017.11.09-01.57.58:698][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024774s)
+[2017.11.09-01.57.58:700][  0]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-01.57.58:700][  0]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2017.11.09-01.57.58:701][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.027332s)
+[2017.11.09-01.57.58:727][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-01.57.58:741][  0]LogInit: FAudioDevice initialized.
+[2017.11.09-01.57.58:772][  0]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-01.57.58:780][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-17.57.58
+[2017.11.09-01.57.58:782][  0]LogWorld: Bringing up level for play took: 0.009522
+[2017.11.09-01.57.58:785][  0]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 0.466
+[2017.11.09-01.57.58:786][  0]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.00.12:236][152]LogNet: Browse: /Game/Levels/MainMenu
+[2017.11.09-02.00.12:256][152]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2017.11.09-02.00.12:299][152]Cmd: MEM
+[2017.11.09-02.00.12:324][152]LogMemory: Platform Memory Stats for Windows
+[2017.11.09-02.00.12:324][152]LogMemory: Process Physical Memory: 1538.11 MB used, 3886.90 MB peak
+[2017.11.09-02.00.12:324][152]LogMemory: Process Virtual Memory: 6685.75 MB used, 6770.84 MB peak
+[2017.11.09-02.00.12:324][152]LogMemory: Physical Memory: 5807.25 MB used,  2290.66 MB free, 8097.91 MB total
+[2017.11.09-02.00.12:324][152]LogMemory: Virtual Memory: 7916.25 MB used,  2290.66 MB free, 134217728.00 MB total
+[2017.11.09-02.00.12:324][152]LogMemory: 
+[2017.11.09-02.00.12:324][152]Allocator Stats for TBB: (not implemented)
+[2017.11.09-02.00.12:370][152]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.09-02.00.12:370][152]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-02.00.12:381][152]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.08-18.00.12
+[2017.11.09-02.00.12:382][152]LogWorld: Bringing up level for play took: 0.010518
+[2017.11.09-02.00.12:382][152]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.09-02.00.12:384][152]LogLoad: Took 0.127739 seconds to LoadMap(/Game/Levels/MainMenu)
+[2017.11.09-02.00.16:064][317]LogNet: Browse: /Game/Levels/Level2
+[2017.11.09-02.00.16:083][317]LogLoad: LoadMap: /Game/Levels/Level2
+[2017.11.09-02.00.16:116][317]Cmd: MEM
+[2017.11.09-02.00.16:137][317]LogMemory: Platform Memory Stats for Windows
+[2017.11.09-02.00.16:137][317]LogMemory: Process Physical Memory: 1611.71 MB used, 3886.90 MB peak
+[2017.11.09-02.00.16:137][317]LogMemory: Process Virtual Memory: 6748.10 MB used, 6770.84 MB peak
+[2017.11.09-02.00.16:137][317]LogMemory: Physical Memory: 5885.81 MB used,  2212.10 MB free, 8097.91 MB total
+[2017.11.09-02.00.16:138][317]LogMemory: Virtual Memory: 7932.25 MB used,  2212.10 MB free, 134217728.00 MB total
+[2017.11.09-02.00.16:138][317]LogMemory: 
+[2017.11.09-02.00.16:138][317]Allocator Stats for TBB: (not implemented)
+[2017.11.09-02.00.16:401][317]LogAIModule: Creating AISystem for world Level2
+[2017.11.09-02.00.16:401][317]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-02.00.16:493][317]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2017.11.08-18.00.16
+[2017.11.09-02.00.16:495][317]LogWorld: Bringing up level for play took: 0.092717
+[2017.11.09-02.00.16:496][317]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.09-02.00.16:499][317]LogLoad: Took 0.415766 seconds to LoadMap(/Game/Levels/Level2)
+[2017.11.09-02.02.01:063][136]LogNet: Browse: /Game/Levels/MainMenu
+[2017.11.09-02.02.01:083][136]LogLoad: LoadMap: /Game/Levels/MainMenu
+[2017.11.09-02.02.01:124][136]Cmd: MEM
+[2017.11.09-02.02.01:146][136]LogMemory: Platform Memory Stats for Windows
+[2017.11.09-02.02.01:146][136]LogMemory: Process Physical Memory: 1521.66 MB used, 3886.90 MB peak
+[2017.11.09-02.02.01:146][136]LogMemory: Process Virtual Memory: 6646.25 MB used, 6770.84 MB peak
+[2017.11.09-02.02.01:146][136]LogMemory: Physical Memory: 5713.79 MB used,  2384.12 MB free, 8097.91 MB total
+[2017.11.09-02.02.01:146][136]LogMemory: Virtual Memory: 7894.62 MB used,  2384.12 MB free, 134217728.00 MB total
+[2017.11.09-02.02.01:147][136]LogMemory: 
+[2017.11.09-02.02.01:147][136]Allocator Stats for TBB: (not implemented)
+[2017.11.09-02.02.01:222][136]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.09-02.02.01:222][136]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-02.02.01:233][136]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.08-18.02.01
+[2017.11.09-02.02.01:233][136]LogWorld: Bringing up level for play took: 0.009985
+[2017.11.09-02.02.01:234][136]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.09-02.02.01:235][136]LogLoad: Took 0.152586 seconds to LoadMap(/Game/Levels/MainMenu)
+[2017.11.09-02.02.07:172][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.02.07:230][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.16.55:403][322]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.09-02.16.55:447][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.16.55:447][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.09-02.16.55:447][322]PIE: New page: PIE session: Level1 (Nov 8, 2017, 10:16:55 AM)
+[2017.11.09-02.16.55:448][322]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2017.11.09-02.16.55:472][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024241s)
+[2017.11.09-02.16.55:473][322]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-02.16.55:474][322]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2017.11.09-02.16.55:474][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.026683s)
+[2017.11.09-02.16.55:501][322]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.09-02.16.55:516][322]LogInit: FAudioDevice initialized.
+[2017.11.09-02.16.55:550][322]LogLoad: Game class is 'GameMode_BP_C'
+[2017.11.09-02.16.55:559][322]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2017.11.08-18.16.55
+[2017.11.09-02.16.55:561][322]LogWorld: Bringing up level for play took: 0.009956
+[2017.11.09-02.16.55:564][322]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level1 -0.756
+[2017.11.09-02.16.55:564][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.17.22:141][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.17.22:204][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Levels/Level1.Level1:PersistentLevel.Level1'
+[2017.11.09-02.17.24:581][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level1" FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.09-02.17.25:102][591]LogSavePackage: Save=473.90ms
+[2017.11.09-02.17.25:102][591]LogSavePackage: Moving '../../../../../Unreal Engine Projects/05_ITGame/Saved/Level120345FD946202A548AA949B87BDF3A25.tmp' to '../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level1.umap'
+[2017.11.09-02.17.25:105][591]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level1.umap
+[2017.11.09-02.19.12:307][273]LogAIModule: Creating AISystem for world Level2
+[2017.11.09-02.19.12:424][273]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.09-02.19.12:424][273]LightingResults: New page: Lighting Build
+[2017.11.09-02.19.12:425][273]LoadErrors: New page: Loading map: Level2.umap
+[2017.11.09-02.19.12:428][273]MapCheck: New page: Map Check
+[2017.11.09-02.19.12:428][273]LightingResults: New page: Lighting Build
+[2017.11.09-02.19.12:584][273]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.09-02.19.12:644][273]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.09-02.19.12:686][273]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.57ms to complete.
+[2017.11.09-02.19.12:686][273]LogFileHelpers: Loading map 'Level2' took 0.263
+[2017.11.09-02.19.14:316][313]LogEditorViewport: Clicking on Actor (context menu): Block2_BP_C (Block2_BP31)
+[2017.11.09-02.19.15:450][339]LogEditorViewport: Clicking Background
+[2017.11.09-02.31.24:423][ 15]LogAIModule: Creating AISystem for world Level1
+[2017.11.09-02.31.24:532][ 15]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.09-02.31.24:532][ 15]LightingResults: New page: Lighting Build
+[2017.11.09-02.31.24:533][ 15]LoadErrors: New page: Loading map: Level1.umap
+[2017.11.09-02.31.24:538][ 15]MapCheck: New page: Map Check
+[2017.11.09-02.31.24:538][ 15]LightingResults: New page: Lighting Build
+[2017.11.09-02.31.24:664][ 15]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.09-02.31.24:722][ 15]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.09-02.31.26:247][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,524.639ms to complete.
+[2017.11.09-02.31.26:248][ 15]LogFileHelpers: Loading map 'Level1' took 1.717
+[2017.11.09-02.41.52:957][338]LogAIModule: Creating AISystem for world Level2
+[2017.11.09-02.41.53:073][338]Cmd: MAP LOAD FILE="../../../../../Unreal Engine Projects/05_ITGame/Content/Levels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.09-02.41.53:073][338]LightingResults: New page: Lighting Build
+[2017.11.09-02.41.53:074][338]LoadErrors: New page: Loading map: Level2.umap
+[2017.11.09-02.41.53:077][338]MapCheck: New page: Map Check
+[2017.11.09-02.41.53:077][338]LightingResults: New page: Lighting Build
+[2017.11.09-02.41.53:217][338]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.09-02.41.53:275][338]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.09-02.41.53:320][338]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.795ms to complete.
+[2017.11.09-02.41.53:320][338]LogFileHelpers: Loading map 'Level2' took 0.248
